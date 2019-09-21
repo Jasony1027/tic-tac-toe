@@ -1,6 +1,6 @@
 /**
  * Tic Tac Toe
- *
+ * A simple Tic Tac Toe game
  * @author Jason Yen
  * @version Oct. 9 2017
  */
